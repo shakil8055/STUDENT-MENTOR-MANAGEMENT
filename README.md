@@ -26,8 +26,3 @@ Student
 
 •	PUT Edit Student = https://student-mentor-management-rhq8.onrender.com/student/:id
 
-Assign
-
-•	POST Assign multiple Student = https://student-mentor-management-rhq8.onrender.com/assign/student/:batch/mentor/:mentor_id
-
-POSTMAN Link - https://www.postman.com/dineshgowthamk/workspace/public/collection/32502533-fc78f5fb-0232-4fd7-82b6-454be1b5679e?action=share&creator=32502533
